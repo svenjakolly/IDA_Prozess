@@ -1,0 +1,28 @@
+@font-face {
+    font-family: GT Americana;
+    src: url(GT-America-Mono-Regular.woff2);
+}
+
+body {
+    font-family: GT Americana;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+img {
+    height: 600px;
+    padding: 1em;
+}
+
+div {
+    padding: 1em;
+    width: 30%;
+    flex-direction: row;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
