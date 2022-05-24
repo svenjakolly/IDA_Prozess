@@ -37,3 +37,7 @@ img {
     flex-wrap: wrap;
     flex-direction: row;
 }
+
+.gross {
+    height: 400px;
+}
